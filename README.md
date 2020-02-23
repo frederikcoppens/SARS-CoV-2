@@ -36,7 +36,7 @@ It contains descriptions of workflows and exact versions of all software used. T
  1. Underscore the importance of access to raw data
  2. Demonstrate that existing community efforts in curation and deployment of biomedical software can reliably support rapid reproducible research during global crises
 
-Our analysis was divided into six parts listed below. Each part has a dedicated page that provides links to input datasets, intermediate and final results, workflows, and Galaxy histories that list all details for each analysis. These workflows can be re-run by any of three global Galaxy instances in the [US](http://usegalaxy.org), in [Europe](http://usegalaxy.eu) and in [Australia](https://usegalaxy.org.au), as well as in the [ELIXIR Belgium](https://usegalaxy.be) Galaxy instance.
+Our analysis was divided into six parts listed below. Each part has a dedicated page that provides links to input datasets, intermediate and final results, workflows, and Galaxy histories that list all details for each analysis. These workflows can be re-run by any of three global Galaxy instances in the [US](http://usegalaxy.org), in [Europe](http://usegalaxy.eu) and in [Australia](https://usegalaxy.org.au), as well as in the [ELIXIR Belgium](https://usegalaxy.be) instance.
 
   1. [Pre-processing of raw read data](1-PreProcessing)
   2. [Assembly of COVID-19 genome](2-Assembly)
@@ -62,6 +62,6 @@ Our analysis was divided into six parts listed below. Each part has a dedicated 
   <a href="https://bioplatforms.com">    <img src="img/bpa_logo.png" width="20%" alt="Bio Platforms Australia" /></a> &nbsp;
   <a href="https://ardc.ed.au">          <img src="img/ardc_logo.png" width="20%" alt="Australian Research Data Commons" /></a> &nbsp;
   <a href="http://www.vib.be/">          <img src="img/vib_tagline_pos_rgb.png" width="15%" alt="VIB" /></a> &nbsp;
-  <a href="https://www.elixir-belgium.org">          <img src="img/ELIXIR_BELGIUM_white_background.png" width="15%" alt="ELIXIR Belgium" /></a> &nbsp;
+  <!-- <a href="https://www.elixir-belgium.org">          <img src="img/ELIXIR_BELGIUM_white_background.png" width="15%" alt="ELIXIR Belgium" /></a> &nbsp; -->
   <a href="https://www.vscentrum.be">          <img src="img/VSC-logo.png" width="25%" alt="Vlaams Supercomputer Center" /></a> &nbsp;
 </p>
